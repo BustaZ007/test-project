@@ -1,0 +1,10 @@
+docs
+build
+.husky
+.idea
+/report/
+/.jscpd
+.vscode
+*.DS_Store
+node_modules
+.vite
